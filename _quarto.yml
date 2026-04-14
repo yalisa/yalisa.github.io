@@ -2,8 +2,8 @@ project:
   type: website
 
 website:
-  title: "Имя Фамилия"
-  site-url: "https://username.github.io/repo/"
+  title: "Елизавета Янина"
+  site-url: "https://yalisa.github.io"
   navbar: false
 
 format:
