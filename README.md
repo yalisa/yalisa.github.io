@@ -2,13 +2,13 @@ https://yalisa.github.io
 
 My academic page.
 
-# 🌐 Personal Academic Website — Cognitive Research Profile
+## Personal Academic Website — Cognitive Research Profile
 
 This repository contains a personal academic website built with **R Markdown (Rmd → HTML)** and deployed via **GitHub Pages**.
 
 ---
 
-## 👤 About
+## About
 
 This is a professional profile page for a researcher in **cognitive science and human physiology**, focusing on:
 
@@ -20,19 +20,15 @@ This is a professional profile page for a researcher in **cognitive science and 
 
 ---
 
-## 🧠 Website Content
-
-The site includes:
-
-### 🧑‍🔬 Profile section
+### Profile section
 Short academic biography and research focus.
 
-### 📚 Research topics
+### Research topics
 - EEG dynamics in athletes
 - Functional states during competitive activity
 - Subjective cost of error in sensorimotor tasks
 
-### 🛠 Technical stack
+### Technical stack
 Tools used in research:
 - Python, R, SQL
 - Pandas, Matplotlib, Scikit-learn
@@ -40,7 +36,7 @@ Tools used in research:
 - Statistical software (SPSS, G*Power)
 - Visualization tools (Gephi)
 
-### 📊 Portfolio
+### Portfolio
 Example research outputs:
 - EEG topographic maps
 - Eye-tracking heatmaps
